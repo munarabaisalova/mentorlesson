@@ -1,0 +1,109 @@
+.header {
+    background-image: url(./image/Rectangle.png);
+    width: auto;
+    height: 800px;
+}
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+.text-a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+padding: 25px;
+
+}
+.text-p {
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}
+.title {
+    text-align: center;
+    color: white;
+    font-size: 48px;
+}
+.btn {
+    margin:50px  630px ;
+    width: 200px;
+    height: 45px;
+    background: #4985FF;
+    color: white;
+    border-radius:25px;
+    border: none;
+}
+.btn:hover {
+    background: gray;
+    color: blue;
+    transition: 2s;
+    box-shadow: 0px 0px 5px 5px greenyellow;
+}
+.title-2 {
+    font-size: 48px;
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+}
+.title-p {
+    color: 
+    grey;
+    font-size: 16px;
+    text-align: center;
+}
+.blocks {
+    display: flex;justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+  
+}
+.items {
+    display: flex;
+    margin: 20px ;
+}
+.sircle {
+    margin-right: 20px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    border: 2px solid rgb(17, 73, 142);
+    padding: 5px;
+  
+   
+}
+.imag {
+    
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+  
+
+   
+}
+.webrow {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.web-t {
+    color: #323232;
+    font-size: 38px;
+    text-align: center;
+}
+.web-p {
+    color: #999999;
+    font-size: 16px;
+    text-align: center;
+}
+.web-a {
+    color: #4985FF;
+    font-size: 16px;
+    
+}
+.img-web {
+    width: 450px;
+    height: 380px;
+}
+   
